@@ -1,4 +1,5 @@
 # GestAca
-Case of study of why Antonio is so cute.
+
+Case of study developed with agile methodologies and focused in clean code and architecture.
 
 
